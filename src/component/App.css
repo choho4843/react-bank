@@ -119,3 +119,10 @@ table{
   background-color: midnightblue;
   color:aliceblue;
 }
+
+.carousel{
+  display: flex;
+  width: 300px;
+  justify-content: center;
+  margin: 0 auto;
+}
